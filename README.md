@@ -48,6 +48,9 @@ All datasets used in this dashboard are synthetic and/or open-source and structu
 4. Star Schema Model: Implemented with Calendar & Lookup Tables
 5. Impact and Value
 
+## Dataset Used
+- <a href="https://github.com/Arafat3-DA/Hospital-Management-Dashboard/tree/main/Data%20Source">Dataset<a/>
+
 ## 📈 Impact and Value
 This dashboard empowers healthcare stakeholders to:
 
