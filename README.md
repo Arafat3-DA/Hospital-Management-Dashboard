@@ -64,5 +64,7 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 For queries or collaboration opportunities:
 
 📬 Email: arafatsiddiqui3@gmail.com
+
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/arafat-siddiqui/">Arafat Siddiqui<a/>
+
 🌐 Portfolio: https://arafat3-portfolio.netlify.app/
