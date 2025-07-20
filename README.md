@@ -46,7 +46,6 @@ All datasets used in this dashboard are synthetic and/or open-source and structu
 2. Imported via: SSIS → SQL Server → Power BI
 3. ETL: Performed using SSIS & Power Query
 4. Star Schema Model: Implemented with Calendar & Lookup Tables
-5. Impact and Value
 
 ## Dataset Used
 - <a href="https://github.com/Arafat3-DA/Hospital-Management-Dashboard/tree/main/Data%20Source">Dataset<a/>
